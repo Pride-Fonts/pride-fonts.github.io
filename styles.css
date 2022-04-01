@@ -1,3 +1,13 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
 body {
     text-align: center;
+}
+.center-div {
+    margin: auto;
+    width: 60%;
+    padding: 2px;
+}
+.emoji {
+    width: 25px;
+    height: 25px;
 }
